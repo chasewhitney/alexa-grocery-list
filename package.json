@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "alexa-sdk": "^1.0.25",
-    "twilio": "^3.16.0"
+    "twilio": "^4.10.0"
   }
 }
